@@ -1,3 +1,6 @@
+# ARCHIVE NOTICE
+The information in this repository is now out of date, as it relates to APSIM Classic release 7.9. Please see https://github.com/APSIMInitiative/APSIMClassic for up to date versions.
+
 # Docker container for APSIM Classic Build
 
 This container builds APSIM Classic, and creates a self-extracting binary as an artifact, which is then used for the Runtime container. The following comments explain the logic behind how the Build container was created.
